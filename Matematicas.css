@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    margin: 0;
+    padding: 0;
+	background: url("Iniciaciónmatemáticas.jpg");   
+    background-size: cover;
+    background-position: top;
+    font-family: sans-serif;
+}
